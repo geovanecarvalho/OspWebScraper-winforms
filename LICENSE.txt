@@ -1,0 +1,25 @@
+DIREITOS DE PROPRIEDADE INTELECTUAL E LICENÇA DE USO
+
+Copyright (c) 2026 Geovane Carvalho. Todos os direitos reservados.
+
+1. PROPRIEDADE INTELECTUAL:
+Este software e seu código-fonte são de propriedade intelectual exclusiva de Geovane Carvalho. 
+O desenvolvimento foi realizado de forma independente pelo autor.
+
+2. LICENÇA DE USO (TELEMONT):
+É concedida à empresa Telemont uma licença de uso não exclusiva e intransferível para operar este software 
+em suas atividades internas. Esta licença está vinculada ao acordo vigente entre o autor e a empresa.
+
+3. RESTRIÇÕES:
+A Telemont ou qualquer terceiro não possui autorização para:
+   a) Vender, sublicenciar ou comercializar o código-fonte ou o software.
+   b) Distribuir o software para entidades externas sem autorização prévia por escrito do autor.
+   c) Reivindicar a autoria intelectual do projeto.
+
+4. LIMITAÇÃO DE RESPONSABILIDADE:
+O software é fornecido "como está", sem garantias de qualquer tipo. Em nenhum caso o autor 
+será responsável por quaisquer danos decorrentes do uso desta ferramenta.
+
+5. REVOGAÇÃO:
+Esta licença de uso pode ser revogada ou renegociada caso o acordo de colaboração entre 
+o autor e a Telemont seja encerrado ou alterado, conforme entendimento entre as partes.

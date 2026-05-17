@@ -1,0 +1,29 @@
+## Visual Studio Temporary Files
+.vs/
+
+## Build Results
+[Bb]in/
+[Oo]bj/
+
+## User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+## App Settings (Contendo credenciais sensíveis)
+**/config.json
+
+## OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Publish output
+publish/
+
+## Logging files
+*.log
+log_osp_scraper_*.txt
+
+## Rider / JetBrains
+.idea/

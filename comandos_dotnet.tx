@@ -1,0 +1,20 @@
+# Criar uma publicação somente com executavel:
+dotnet publish -c Release --self-contained -r win-x64 -p:PublishSingleFile=true
+
+# Criar a pasta publish Para garantir que tudo fique dentro do com playwright .exe:
+dotnet publish -c Release `
+  --self-contained true `
+  -r win-x64 `
+  -p:PublishSingleFile=true `
+  -p:IncludeNativeLibrariesForSelfExtract=true `
+  -p:DebugType=embedded `
+  -p:IncludeAllContentForSelfExtract=true `
+  -o ./publish
+
+
+
+# debug:
+dotnet build
+
+# Rodar app:
+dotnet run
