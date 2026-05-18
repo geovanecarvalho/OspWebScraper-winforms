@@ -2,9 +2,9 @@
 
 # 🕸️ OSP Vivo Web Scraper
 
-[![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)](https://github.com/GeovaneTelemont/VivoOspWebScraper-winforms/releases/tag/v2.1.0)
+[![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)](https://github.com/geovanecarvalho/OspWebScraper-winforms/releases/tag/v2.1.0)
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)](https://dotnet.microsoft.com/)
-[![License](https://img.shields.io/badge/license-PROPRIETARY-blue.svg)](https://github.com/GeovaneTelemont/VivoOspWebScraper-winforms/blob/main/LICENSE.txt)
+[![License](https://img.shields.io/badge/license-PROPRIETARY-blue.svg)](https://github.com/geovanecarvalho/OspWebScraper-winforms?tab=License-1-ov-file)
 
 Ferramenta desktop para extração automatizada de dados do sistema OSP Control da Vivo.
 
@@ -58,7 +58,7 @@ O **OSP Vivo Web Scraper** é uma aplicação Windows Forms desenvolvida em C# q
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/OSPWebScraper.git
+git clone https://github.com/geovanecarvalho/OspWebScraper-winforms.git
 cd OSPWebScraper
 ```
 ### 2. Como rodar o projeto
